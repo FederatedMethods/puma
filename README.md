@@ -4,13 +4,13 @@
 
 PUMA is a python pipeline which aggregates third party metadata about journal articles to enable bibliometric research and easy exploration and searching of a collection of articles.
 
-The technical documentation with screenshots is at: [https://github.com/OllyButters/puma/wiki](https://github.com/OllyButters/puma/wiki)
+The technical documentation with screenshots is at: [https://github.com/FederatedMethods/puma/wiki](https://github.com/FederatedMethods/puma/wiki)
 
 A demo with some of the functionality is at: [https://ollybutters.github.io/puma_web](https://ollybutters.github.io/puma_web)
 
 ## Running the code
 
-The wiki (<https://github.com/OllyButters/puma/wiki>) has the best instructions, but in overview:
+The wiki (<https://github.com/FederatedMethods/puma/wiki>) has the best instructions, but in overview:
 
 ### Linux
 
