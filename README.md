@@ -78,6 +78,6 @@ Puma has been running for a couple of years and has been funded by a few differe
 - Nuffield Foundation Summer Research placement
 - D2K, University of Bristol
 - [CLOSER](https://closer.ac.uk)
-- [D2K, Newcastle University](https://research.ncl.ac.uk/d2k/)
+- D2K, Newcastle University
 - UKRI Innovation Fellowship with HDR UK
 - [NIHR ARC NWC](https://arc-nwc.nihr.ac.uk/)
